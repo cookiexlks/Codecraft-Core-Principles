@@ -8,4 +8,9 @@ updates:
   - package-ecosystem: "" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "hour"
+
+      time: "8:53"
+      So: "9:53" Check "security"
+
+  
